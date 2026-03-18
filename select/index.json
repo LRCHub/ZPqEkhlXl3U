@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "悪党",
+  "base_artist": "神谷志龍",
+  "createdAt": "2026-03-18T11:50:08.443336Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪党",
+      "artist": "神谷 志龍",
+      "has_synced": false,
+      "path": "select/pl_01_悪党_神谷_志龍.txt"
+    }
+  ]
+}
